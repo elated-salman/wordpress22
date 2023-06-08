@@ -26,7 +26,7 @@ define( 'DB_NAME', 'mydb' );
 define( 'DB_USER', 'admin' );
 
 /** Database password */
-define( 'DB_PASSWORD', 'Salman9614$' );
+define( 'DB_PASSWORD', 'admin123' );
 
 /** Database hostname */
 define( 'DB_HOST', 'database-1.cssjsx9cgosf.us-east-1.rds.amazonaws.com' );
